@@ -1,0 +1,15 @@
+Display the score board
+Throw the dice (13 rounds)
+	while throws left (3) and not happy
+		If happy with result
+			choose wich dice to save
+			choose to which score type to save them
+			check that the score is valid
+				store the score
+		If not happy with result
+			choose wich dice to reroll
+	If no score
+		choose whitch score to scrap
+	Make the changes to the score board
+	Print the score board
+end game

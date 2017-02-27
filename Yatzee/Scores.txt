@@ -1,0 +1,50 @@
+	UPPER SECTION
+Aces
+Twos
+Threes
+Fours
+Fives
+Sixes
+Total Score->
+Bonus (if total score >= 63) +35p
+Total (of upper section)
+
+	LOWER SECTION
+3 of a kind
+4 of a kind
+Full House (score 25)
+Small Straight (squense of 4) (score 30)
+Large Straight (sequense of 5) (score 40)
+YAHTZEE (5 of a kind) ( score 50)
+Chance (score total of all 5 dice)
+YAHTZEE BONUS (100p per aditional yatzee)
+	(but you MUST score in an aditional field also)
+Total of lower section
+Total of upper section
+Grand total
+
+
+{ "------------- Aces: ", "Twos: ", "Threes: ", "Fours: ","Fives: ","Sixes: ","Total Score: ","Bonus Score: ","TOTAL: "};
+{ "3 of a kind ","4 of a kind ","Full House, 25p: ","Sm. Straigh, 30p: ","Lg. Straight, 40p: ","YAHTZEE, 60p: ","Chance: ","YAHTZEE BONUS: ", "TOTAL of lower section: ", "TOTAL of upper section: ", "GRAND TOTAL: "};
+
+{ 
+ "-------------- Aces: ",
+ "-------------- Twos: ", 
+ "------------ Threes: ", 
+ "------------- Fours: ",
+ "------------- Fives: ",
+ "------------- Sixes: ",
+ "------  Total Score: ",
+ "------- Bonus Score: ", 
+ "------------- TOTAL: "};
+ { 
+ "------- 3 of a kind: ", 
+ "------- 4 of a kind: ",
+ "--- Full House, 25p: ",
+ "-- Sm. Straigh, 30p: ",
+ "- Lg. Straight, 40p: ",
+ "YAHTZEE, 60p: ","Chance: ",
+ "----- YAHTZEE BONUS: ", 
+ "TOTAL of lower section: ", 
+ "TOTAL of upper section: ", 
+ "------- GRAND TOTAL: "};
